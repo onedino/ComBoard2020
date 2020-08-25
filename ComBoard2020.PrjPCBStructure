@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ComBoard.SchDoc
+Record=SheetSymbol|SourceDocument=ComBoard.SchDoc|Designator=U_5V_to_3V3|SchDesignator=U_5V_to_3V3|FileName=5V_to_3V3.SchDoc|SymbolType=Normal|RawFileName=5V_to_3V3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ComBoard.SchDoc|Designator=U_STM32F401R|SchDesignator=U_STM32F401R|FileName=STM32F401R.SchDoc|SymbolType=Normal|RawFileName=STM32F401R.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
